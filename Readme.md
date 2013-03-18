@@ -2,7 +2,7 @@
 
 connect-boobst is a Intersystems Caché session store backed by [boobst](https://github.com/agsh/boobst).
 
-#Installation
+##Installation
 
 via npm:
 
@@ -10,7 +10,7 @@ via npm:
 npm install connect-boobst
 ```
 
-#Options
+##Options
 To start ```connect-boobst```, you have to pass function, returning an instance of boobst class, thus permitting the
 usage of existing connections or server configurations.
 
@@ -24,7 +24,7 @@ Other options:
 + global Name of a global where session will be stored
 + ns Namespace
 
-#Example
+##Example
 
 ``` Javascript
 var connect = require('connect')
