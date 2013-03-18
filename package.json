@@ -1,0 +1,11 @@
+{
+	"name": "connect-boobst",
+	"description": "boobst (Caché DB) session store for connect",
+	"version": "0.0.1",
+	"author": "Andrew D.Laptev <a.d.laptev@gmail.com>",
+	"dependencies": {
+		"boobst": ">=0.7.2",
+		"connect": ">=1.8.5"
+	},
+	"main": "./lib/connect-boobst"
+}
