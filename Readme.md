@@ -1,4 +1,5 @@
 #connect-boobst
+[![NPM version](https://badge.fury.io/js/connect-boobst.png)](http://badge.fury.io/js/connect-boobst)
 
 connect-boobst is a Intersystems Caché session store backed by [boobst](https://github.com/agsh/boobst).
 
