@@ -7,5 +7,9 @@
 		"boobst": ">=0.7.2",
 		"connect": ">=1.8.5"
 	},
-	"main": "./lib/connect-boobst"
+	"main": "./lib/connect-boobst",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/agsh/connect-boobst.git"
+	}
 }
